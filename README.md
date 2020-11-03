@@ -6,11 +6,12 @@
 
 1. Install [Pytorch](https://pytorch.org/)
 
-2. The data set should be in VOC format，the data directory should look like this:
+2. The data set should be in VOC format，the data directory should look like this
+```
    |---your dataset name
        |---Annotations
        |---JPEGImages
-
+```
 
 ## Train the model
 <font face="Times New Roman" size=4>
